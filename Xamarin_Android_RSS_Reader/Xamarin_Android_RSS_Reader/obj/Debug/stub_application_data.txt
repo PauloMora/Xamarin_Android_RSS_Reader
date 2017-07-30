@@ -1,0 +1,2 @@
+android.app.Application
+Xamarin_Android_RSS_Reader.Xamarin_Android_RSS_Reader
